@@ -28,9 +28,6 @@
 [submodule "nagios"]
 	path = nagios
 	url = https://github.com/opscode-cookbooks/nagios.git
-[submodule "nginx"]
-	path = nginx
-	url = https://github.com/opscode-cookbooks/nginx.git
 [submodule "ntp"]
 	path = ntp
 	url = https://github.com/opscode-cookbooks/ntp.git
@@ -124,3 +121,6 @@
 [submodule "htpasswd"]
 	path = htpasswd
 	url = https://github.com/Youscribe/htpasswd-cookbook.git
+[submodule "nginx"]
+	path = nginx
+	url = https://github.com/jeffkimble/nginx.git
