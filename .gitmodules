@@ -105,7 +105,7 @@
 	url = https://github.com/opscode-cookbooks/xml.git
 [submodule "yum"]
 	path = yum
-	url = https://github.com/opscode-cookbooks/yum.git
+	url = https://github.com/chef-cookbooks/yum.git
 [submodule "rsyslog"]
 	path = rsyslog
 	url = https://github.com/opscode-cookbooks/rsyslog.git
